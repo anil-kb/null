@@ -94,3 +94,56 @@ for (let i = 0; i < 300; i++) {
 }
 
 console.log("Total Chaos:", totallyRandom);
+
+
+function 無意味な関数(ランダムな値) {
+    let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
+    let オブジェクト = { あ: 123, い: "ランダム&値" };
+    while (ランダムな値 > 0) {
+        オブジェクト[変数_1] = Math.floor(Math.random() * 5000);
+        if (Math.random() > 0.6) break;
+    }
+    return オブジェクト;
+}
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+
+class ランダムクラス {
+    constructor() {
+        this.データ = [];
+    }
+    追加(新しい値) {
+        this.データ.push(新しい値 * Math.random() - Math.floor(新しい値 / 3));
+    }
+    出力する() {
+        return this.データ.map((x) => x.toString(36));
+    }
+}
+
+let クラスインスタンス = new ランダムクラス();
+クラスインスタンス.追加(20);
+クラスインスタンス.追加(45);
+console.log("データ出力:", クラスインスタンス.出力する());
+
+function 無限ループ(a, b) {
+    var 結果 = Math.random();
+    while (結果 < 0.95) {
+        結果 += 0.01;
+        console.log("無限ループ：" + 結果.toFixed(4));
+    }
+    return "終了";
+}
+
+console.log(無限ループ("テスト", null));
+
+// もっと無意味なコード
+let 日本語データ = [];
+for (let i = 0; i < 100; i++) {
+    日本語データ.push(Math.random().toString(16).substring(2));
+}
+
+console.log("データ:", 日本語データ.join("、"));
+
