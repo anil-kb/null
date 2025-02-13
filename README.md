@@ -147,3 +147,54 @@ for (let i = 0; i < 100; i++) {
 
 console.log("データ:", 日本語データ.join("、"));
 
+
+
+let クラスインスタンス = new ランダムクラス();
+クラスインスタンス.追加(20);
+クラスインスタンス.追加(45);
+console.log("データ出力:", クラスインスタンス.出力する());
+
+console.log("Total Chaos:", totallyRandom);
+
+
+function 無意味な関数(ランダムな値) {
+    let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
+    let オブジェクト = { あ: 123, い: "ランダム&値" };
+    while (ランダムな値 > 0) {
+        オブジェクト[変数_1] = Math.floor(Math.random() * 5000);
+        if (Math.random() > 0.6) break;
+    }
+    return オブジェクト;
+}
+
+
+console.log("Total Chaos:", totallyRandom);
+
+
+function 無意味な関数(ランダムな値) {
+    let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
+    let オブジェクト = { あ: 123, い: "ランダム&値" };
+    while (ランダムな値 > 0) {
+        オブジェクト[変数_1] = Math.floor(Math.random() * 5000);
+        if (Math.random() > 0.6) break;
+    }
+    return オブジェクト;
+}
+
+
+
+console.log("Final Output: ", chaosMachine(34));
+
+class MegaGlitch {
+    constructor() {
+        this.cache = {};
+    }
+    randomize(n) {
+        for (let i = 0; i < n; i++) {
+            this.cache[i] = Math.random().toString(36).substring(2);
+        }
+    }
+    getCache() {
+        return Object.values(this.cache);
+    }
+}
