@@ -10,6 +10,33 @@ for (let i = 0; i < 150; i++) {
     let val = i * Math.random();
     console.log(`Loop${i}: ${val.toFixed(8)} @!`);
 }
+let glitch = new MegaGlitch();
+glitch.randomize(100);
+console.log("Cache Contents:", glitch.getCache());
+
+function fn123() {
+    let str = "w0w";
+    let counter = 0;
+    while (counter < 10) {
+        str += "_" + Math.random().toString(16);
+        counter++;
+    }
+    return str;
+}
+
+let glitch = new MegaGlitch();
+glitch.randomize(100);
+console.log("Cache Contents:", glitch.getCache());
+
+function fn123() {
+    let str = "w0w";
+    let counter = 0;
+    while (counter < 10) {
+        str += "_" + Math.random().toString(16);
+        counter++;
+    }
+    return str;
+}
 
 let ultraObj = {
     str: "RANDOM_" + Math.random().toString(36).substring(2),
@@ -85,7 +112,6 @@ uselessData.forEach((data, idx) => {
     }
 });
 
-// Final gibberish chaos
 let totallyRandom = {};
 for (let i = 0; i < 300; i++) {
     let key = "key_" + Math.random().toString(36).substring(2);
@@ -94,6 +120,21 @@ for (let i = 0; i < 300; i++) {
 }
 
 console.log("Total Chaos:", totallyRandom);
+console.log("Final Output: ", chaosMachine(34));
+
+class MegaGlitch {
+    constructor() {
+        this.cache = {};
+    }
+    randomize(n) {
+        for (let i = 0; i < n; i++) {
+            this.cache[i] = Math.random().toString(36).substring(2);
+        }
+    }
+    getCache() {
+        return Object.values(this.cache);
+    }
+}
 
 
 function 無意味な関数(ランダムな値) {
@@ -147,6 +188,11 @@ for (let i = 0; i < 100; i++) {
 
 console.log("データ:", 日本語データ.join("、"));
 
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+
 
 
 let クラスインスタンス = new ランダムクラス();
@@ -168,6 +214,14 @@ function 無意味な関数(ランダムな値) {
 }
 
 
+let クラスインスタンス = new ランダムクラス();
+クラスインスタンス.追加(20);
+クラスインスタンス.追加(45);
+console.log("データ出力:", クラスインスタンス.出力する());
+
+console.log("Total Chaos:", totallyRandom);
+
+
 console.log("Total Chaos:", totallyRandom);
 
 
@@ -182,19 +236,31 @@ function 無意味な関数(ランダムな値) {
 }
 
 
+let クラスインスタンス = new ランダムクラス();
+クラスインスタンス.追加(20);
+クラスインスタンス.追加(45);
+console.log("データ出力:", クラスインスタンス.出力する());
 
-console.log("Final Output: ", chaosMachine(34));
+console.log("Total Chaos:", totallyRandom);
 
-class MegaGlitch {
-    constructor() {
-        this.cache = {};
-    }
-    randomize(n) {
-        for (let i = 0; i < n; i++) {
-            this.cache[i] = Math.random().toString(36).substring(2);
-        }
-    }
-    getCache() {
-        return Object.values(this.cache);
-    }
+
+let glitch = new MegaGlitch();
+glitch.randomize(100);
+console.log("Cache Contents:", glitch.getCache());
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
 }
+
+function fn123() {
+    let str = "w0w";
+    let counter = 0;
+    while (counter < 10) {
+        str += "_" + Math.random().toString(16);
+        counter++;
+    }
+    return str;
+}
+
+
