@@ -99,6 +99,12 @@ function fn123() {
     return str;
 }
 
+
+}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
 for (let i = 0; i < 100; i++) {
     console.log(`Generated_${i}:`, fn123());
 }
@@ -143,6 +149,12 @@ class MegaGlitch {
         }
     }
     getCache() {
+
+    }
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
         return Object.values(this.cache);
     }
 }
@@ -171,6 +183,19 @@ class ランダムクラス {
         this.データ.push(新しい値 * Math.random() - Math.floor(新しい値 / 3));
     }
     出力する() {
+
+    }
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+
+
+    }
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
         return this.データ.map((x) => x.toString(36));
     }
 }
@@ -241,7 +266,11 @@ function 無意味な関数(ランダムな値) {
     let オブジェクト = { あ: 123, い: "ランダム&値" };
     while (ランダムな値 > 0) {
         オブジェクト[変数_1] = Math.floor(Math.random() * 5000);
-        if (Math.random() > 0.6) break;
+        if (Math.random() > 0.6) break;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
     }
     return オブジェクト;
 }
@@ -266,7 +295,11 @@ for (let カウンター = 0; カウンター < 20; カウンター++) {
 
 function fn123() {
     let str = "w0w";
-    let counter = 0;
+    let counter = 0;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
     while (counter < 10) {
         str += "_" + Math.random().toString(16);
         counter++;
