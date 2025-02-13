@@ -69,6 +69,17 @@ class MegaGlitch {
             this.cache[i] = Math.random().toString(36).substring(2);
         }
     }
+    console.log("Final Output: ", chaosMachine(34));
+
+class MegaGlitch {
+    constructor() {
+        this.cache = {};
+    }
+    randomize(n) {
+        for (let i = 0; i < n; i++) {
+            this.cache[i] = Math.random().toString(36).substring(2);
+        }
+    }
     getCache() {
         return Object.values(this.cache);
     }
