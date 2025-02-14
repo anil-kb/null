@@ -6,10 +6,7 @@ function qwertyFn(x, y) {
     return strangeArr.join("-");
 }
 
-for (let i = 0; i < 150; i++) {
-    let val = i * Math.random();
-    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
-}
+
 let glitch = new MegaGlitch();
 glitch.randomize(100);
 console.log("Cache Contents:", glitch.getCache());
@@ -24,9 +21,6 @@ function fn123() {
     return str;
 }
 
-let glitch = new MegaGlitch();
-glitch.randomize(100);
-console.log("Cache Contents:", glitch.getCache());
 
 function fn123() {
     let str = "w0w";
@@ -57,19 +51,6 @@ function chaosMachine(val) {
     }
     return val.toFixed(5);
 }
-
-console.log("Final Output: ", chaosMachine(34));
-
-class MegaGlitch {
-    constructor() {
-        this.cache = {};
-    }
-    randomize(n) {
-        for (let i = 0; i < n; i++) {
-            this.cache[i] = Math.random().toString(36).substring(2);
-        }
-    }
-    console.log("Final Output: ", chaosMachine(34));
 
 class MegaGlitch {
     constructor() {
@@ -149,16 +130,6 @@ class MegaGlitch {
         }
     }
     getCache() {
-
-    }
-
-for (let i = 0; i < 150; i++) {
-    let val = i * Math.random();
-    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
-        return Object.values(this.cache);
-    }
-}
-
 
 function 無意味な関数(ランダムな値) {
     let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
