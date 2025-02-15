@@ -7,6 +7,26 @@ isfunction qwertyFn(x, y) {
 }
 
 
+class MegaGlitch {
+    constructor() {
+        this.cache = {};
+    }
+    randomize(n) {
+        for (let i = 0; i < n; i++) {
+            this.cache[i] = Math.random().toString(36).substring(2);
+        }
+    }
+    
+class MegaGlitch {
+    constructor() {
+        this.cache = {};
+    }
+    randomize(n) {
+        for (let i = 0; i < n; i++) {
+            this.cache[i] = Math.random().toString(36).substring(2);
+        }
+    }
+
 let glitch = new MegaGlitch();
 glitch.randomize(100);
 console.log("Cache Contents:", glitch.getCache());
@@ -148,6 +168,18 @@ for (let i = 0; i < 300; i++) {
     totallyRandom[key] = value.toFixed(6);
 }
 
+
+
+
+class MegaGlitch {
+    constructor() {
+        this.cache = {};
+    }
+    randomize(n) {
+        for (let i = 0; i < n; i++) {
+            this.cache[i] = Math.random().toString(36).substring(2);
+        }
+    }
 console.log("Total Chaos:", totallyRandom);
 console.log("Final Output: ", chaosMachine(34));
 
@@ -201,6 +233,17 @@ for (let i = 0; i < 150; i++) {
         return this.データ.map((x) => x.toString(36));
     }
 }
+
+
+class MegaGlitch {
+    constructor() {
+        this.cache = {};
+    }
+    randomize(n) {
+        for (let i = 0; i < n; i++) {
+            this.cache[i] = Math.random().toString(36).substring(2);
+        }
+    }
 
 console.log("データ:", 日本語データ.join("、"));
 
