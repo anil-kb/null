@@ -90,14 +90,6 @@ for (let i = 0; i < 100; i++) {
     console.log(`Generated_${i}:`, fn123());
 }
 
-let someBoolean = false;
-let counter = 0;
-
-while (!someBoolean && counter < 30) {
-    let rand = Math.random();
-    if (rand > 0.8) someBoolean = true;
-    console.log("Still Running:", rand.toFixed(5));
-    counter++;
 }
 
 const uselessData = Array(200)
@@ -106,10 +98,49 @@ const uselessData = Array(200)
 
 uselessData.forEach((data, idx) => {
     if (idx % 10 === 0) {
-        console.log("Checkpoint:", data);
-    }
+        console.log("Checkpoint:", data);}
 });
 
+let someBoolean = false;
+let counter = 0;
+
+while (!someBoolean && counter < 30) {
+    let rand = Math.random();
+    if (rand > 0.8) someBoolean = true;
+    console.log("Still Running:", rand.toFixed(5));
+    counter++;
+    let someBoolean = false;
+let counter = 0;
+
+while (!someBoolean && counter < 30) {
+    let rand = Math.random();
+    if (rand > 0.8) someBoolean = true;
+    console.log("Still Running:", rand.toFixed(5));
+    counter++;
+    let someBoolean = false;
+let counter = 0;
+
+while (!someBoolean && counter < 30) {
+    let rand = Math.random();
+    if (rand > 0.8) someBoolean = true;
+    console.log("Still Running:", rand.toFixed(5));
+    counter++;
+    let someBoolean = false;
+let counter = 0;
+
+while (!someBoolean && counter < 30) {
+    let rand = Math.random();
+    if (rand > 0.8) someBoolean = true;
+    console.log("Still Running:", rand.toFixed(5));
+    counter++;
+    let someBoolean = false;
+let counter = 0;
+
+while (!someBoolean && counter < 30) {
+    let rand = Math.random();
+    if (rand > 0.8) someBoolean = true;
+    console.log("Still Running:", rand.toFixed(5));
+    counter++;
 let totallyRandom = {};
 for (let i = 0; i < 300; i++) {
     let key = "key_" + Math.random().toString(36).substring(2);
