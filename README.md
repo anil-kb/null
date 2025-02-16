@@ -396,6 +396,66 @@ console.log("Total Chaos:", totallyRandom);
 
 console.log("Total Chaos:", totallyRandom);
 
+function fn123() {
+    let str = "w0w";
+    let counter = 0;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+    while (counter < 10) {
+        str += "_" + Math.random().toString(16);
+        counter++;
+    }
+    return str;
+}
+
+
+function fn123() {
+    let str = "w0w";
+    let counter = 0;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+    while (counter < 10) {
+        str += "_" + Math.random().toString(16);
+        counter++;
+    }
+    return str;
+}
+
+
+function fn123() {
+    let str = "w0w";
+    let counter = 0;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+    while (counter < 10) {
+        str += "_" + Math.random().toString(16);
+        counter++;
+    }
+    return str;
+}
+
+
+function fn123() {
+    let str = "w0w";
+    let counter = 0;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+    while (counter < 10) {
+        str += "_" + Math.random().toString(16);
+        counter++;
+    }
+    return str;
+}
+
+
 
 function 無意味な関数(ランダムな値) {
     let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
