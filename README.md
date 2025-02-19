@@ -296,6 +296,202 @@ for (let カウンター = 0; カウンター < 20; カウンター++) {
     console.log(`ループ_${カウンター}： ${テキスト}`);
 }
 
+console.log("Total Chaos:", totallyRandom);
+
+
+console.log("Total Chaos:", totallyRandom);
+
+
+function 無意味な関数(ランダムな値) {
+    let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
+    let オブジェクト = { あ: 123, い: "ランダム&値" };
+    while (ランダムな値 > 0) {
+        オブジェクト[変数_1] = Math.floor(Math.random() * 5000);
+        if (Math.random() > 0.6) break;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+    }
+    return オブジェクト;
+}
+
+
+console.log("データ:", 日本語データ.join("、"));
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+
+
+console.log("データ:", 日本語データ.join("、"));
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+console.log("Total Chaos:", totallyRandom);
+
+
+console.log("Total Chaos:", totallyRandom);
+
+
+function 無意味な関数(ランダムな値) {
+    let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
+    let オブジェクト = { あ: 123, い: "ランダム&値" };
+    while (ランダムな値 > 0) {
+        オブジェクト[変数_1] = Math.floor(Math.random() * 5000);
+        if (Math.random() > 0.6) break;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+    }
+    return オブジェクト;
+}
+
+
+console.log("データ:", 日本語データ.join("、"));
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+
+
+console.log("データ:", 日本語データ.join("、"));
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+console.log("Total Chaos:", totallyRandom);
+
+
+console.log("Total Chaos:", totallyRandom);
+
+
+function 無意味な関数(ランダムな値) {
+    let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
+    let オブジェクト = { あ: 123, い: "ランダム&値" };
+    while (ランダムな値 > 0) {
+        オブジェクト[変数_1] = Math.floor(Math.random() * 5000);
+        if (Math.random() > 0.6) break;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+    }
+    return オブジェクト;
+}
+
+
+console.log("データ:", 日本語データ.join("、"));
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+
+
+console.log("データ:", 日本語データ.join("、"));
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+console.log("Total Chaos:", totallyRandom);
+
+
+console.log("Total Chaos:", totallyRandom);
+
+
+function 無意味な関数(ランダムな値) {
+    let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
+    let オブジェクト = { あ: 123, い: "ランダム&値" };
+    while (ランダムな値 > 0) {
+        オブジェクト[変数_1] = Math.floor(Math.random() * 5000);
+        if (Math.random() > 0.6) break;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+    }
+    return オブジェクト;
+}
+
+
+console.log("データ:", 日本語データ.join("、"));
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+
+
+console.log("データ:", 日本語データ.join("、"));
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+console.log("Total Chaos:", totallyRandom);
+
+
+console.log("Total Chaos:", totallyRandom);
+
+
+function 無意味な関数(ランダムな値) {
+    let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
+    let オブジェクト = { あ: 123, い: "ランダム&値" };
+    while (ランダムな値 > 0) {
+        オブジェクト[変数_1] = Math.floor(Math.random() * 5000);
+        if (Math.random() > 0.6) break;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+    }
+    return オブジェクト;
+}
+
+
+console.log("データ:", 日本語データ.join("、"));
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+
+
+console.log("データ:", 日本語データ.join("、"));
+
+let テキスト = "はじめまして！" + Math.floor(Math.random() * 999);
+for (let カウンター = 0; カウンター < 20; カウンター++) {
+    console.log(`ループ_${カウンター}： ${テキスト}`);
+}
+console.log("Total Chaos:", totallyRandom);
+
+
+console.log("Total Chaos:", totallyRandom);
+
+
+function 無意味な関数(ランダムな値) {
+    let 変数_1 = "こんにちは_" + Math.random().toString(36).substring(7);
+    let オブジェクト = { あ: 123, い: "ランダム&値" };
+    while (ランダムな値 > 0) {
+        オブジェクト[変数_1] = Math.floor(Math.random() * 5000);
+        if (Math.random() > 0.6) break;}
+
+for (let i = 0; i < 150; i++) {
+    let val = i * Math.random();
+    console.log(`Loop${i}: ${val.toFixed(8)} @!`);
+    }
+    return オブジェクト;
+}
+
+
 
 console.log("Total Chaos:", totallyRandom);
 
