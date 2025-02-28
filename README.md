@@ -6,6 +6,58 @@ isfunction qwertyFn(x, y) {
         strangeArr.push((x + y) * Math.random().toFixed(4));
     }
     return strangeArr.join("-");
+
+
+
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
 }
 
 
@@ -112,6 +164,76 @@ for (let i = 0; i < 100; i++) {
     console.log(`Generated_${i}:`, fn123());
 }
 
+
+
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+
+    **
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");**
+
+    
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-");
+isfunction qwertyFn(x, y) {
+    let strangeArr = [];
+    for (let i = 0; i < 50; i++) {
+        strangeArr.push((x + y) * Math.random().toFixed(4));
+    }
+    return strangeArr.join("-"); **
 }
 
 const uselessData = Array(200)
